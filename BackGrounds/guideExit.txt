@@ -1,0 +1,29 @@
+Total exits
+"\Folder\"
+"currentSpr.gif"
+"newColl.gif"
+exit #
+"newExit.txt"
+"newSpr.gif"
+"newMsk.gif"
+"newSpr2.gif"
+"newMsk2.gif"
+"newSpr3.gif"
+"newMsk3.gif"
+"newPass.gif"
+"newPassMsk.gif"
+"newUnpass.gif"
+"newUnpassMsk.gif"
+"newUnpassColl.gif"
+"newPass.txt"
+"newUnPass.txt"
+"newCH.txt"
+"newMU.txt"
+exit x
+exit y
+start x
+start y
+nex bg x
+new bg y
+bg type 0 to 3(Hor,Ver,All,None)
+Exit type 0 to 3(R,L,U,D)

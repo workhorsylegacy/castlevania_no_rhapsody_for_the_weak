@@ -1,0 +1,2 @@
+total number of characters. Zero for just Alucard.
+character #,box left,box top,box width,box height,center,x,y,healthP,Attackp,DefenceP,character
